@@ -8281,7 +8281,7 @@ canvas {
 .be-top-header .page-title {
   font-size: 19px;
   line-height: 60px;
-  float: left;
+  float: right;
   padding: 0 20px;
 }
 .be-nosidebar-left .be-top-header .page-title {
